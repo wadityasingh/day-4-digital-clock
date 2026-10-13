@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Digital Clock - Current Local Time</title>
+    <meta name="description" content="A clean, responsive digital clock web application built with HTML5, CSS3, and vanilla JavaScript." />
+    <meta property="og:title" content="Digital Clock - Current Local Time" />
+    <meta property="og:description" content="A clean, responsive digital clock web application built with HTML5, CSS3, and vanilla JavaScript." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <main class="clock-wrapper">
+      <div class="clock-card">
+        <header class="clock-header">
+          <h1 class="clock-title">Digital Clock</h1>
+          <p class="clock-subtitle">Current local time</p>
+        </header>
+
+        <section class="time-display" aria-live="polite" aria-label="Current local time">
+          <span id="time" class="time-text">12:00:00</span>
+          <span id="ampm" class="ampm-text">AM</span>
+        </section>
+
+        <footer class="date-display">
+          <span id="date" class="date-text"></span>
+        </footer>
+      </div>
+    </main>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
