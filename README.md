@@ -43,8 +43,8 @@ JavaScript Concepts Learned
 
 Project Links
 
-- GitHub Repository: Add your repository URL here.
-- Live Website: Add your deployed website URL here.
+- GitHub Repository: https://github.com/wadityasingh/day-4-digital-clock.git
+- Live Website: https://github.com/wadityasingh/day-4-digital-clock.git
 
 Internship Details
 
