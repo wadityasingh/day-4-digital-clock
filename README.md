@@ -44,7 +44,7 @@ JavaScript Concepts Learned
 Project Links
 
 - GitHub Repository: https://github.com/wadityasingh/day-4-digital-clock.git
-- Live Website: https://github.com/wadityasingh/day-4-digital-clock.git
+- Live Website: https://wadityasingh.github.io/day-4-digital-clock/
 
 Internship Details
 
